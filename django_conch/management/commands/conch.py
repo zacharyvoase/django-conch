@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from optparse import make_option
 import json
 import os
